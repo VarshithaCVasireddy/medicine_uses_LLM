@@ -15,7 +15,7 @@ pip install pipenv
 To install the required packages, run the following command in the terminal:
 
 ```python
-pipenv install -r requirement.txt
+pipenv install -r requirements.txt
 ```
 
 To run the project, run the following command in the terminal:
