@@ -26,7 +26,13 @@ uvicorn main:app --reload
 
 The model used in this project is trained on medicine and it's uses, so when the medicine name is given the model gives the uses of it. The model is big and takes time to load.
 
-Now open the browser and go to the following url displayed in the terminal then add /docs to the end of the url, this is where you can give the input for execution. Click the POST button and then click the Try it out button. Now you can give the input in the text box and click the Execute button to get the output.
+Now open the browser and go to the following url displayed in the terminal then add /docs to the end of the url, this is where you can give the input for execution. 
+
+Below is an example of the url
+
+```http://127.0.0.1:8000/docs``` 
+
+Click the POST button and then click the Try it out button. Now you can give the input in the text box and click the Execute button to get the output.
 
 Below is an example of how to give the input and get the output.
 <img width="1392" alt="image" src="https://github.com/VarshithaCVasireddy/Sensitive_Information_Redactor/assets/96924488/e54ae8a4-44de-475b-aa07-5862fa121d08">
