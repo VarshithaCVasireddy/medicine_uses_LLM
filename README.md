@@ -18,12 +18,6 @@ To install the required packages, run the following command in the terminal:
 pipenv install -r requirement.txt
 ```
 
-To activate the virtual environment, run the following command in the terminal:
-
-```python
-pipenv shell
-```
-
 To run the project, run the following command in the terminal:
 
 ```python
